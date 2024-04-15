@@ -34,6 +34,7 @@ In this module, we will be focusing on the cleaning of your dataset with various
   <hr class="cds-613 cds-Divider-dark css-yc753g" aria-hidden="true">
 </p>
 
+
 ### MODULE 4: DATA VISUALIZATION
 
   In module 4 of the Capstone, we will be required to create visualizations using the developer survey data. The visualizations we create should highlight the distribution of data, relationships between data, the composition of data, and comparison of data.
@@ -57,3 +58,18 @@ We have analyzed the data in the previous modules, and now it is time to demonst
    <b>Learning Objectives</b>
   <ul><li data-collapsible="false">Create a compelling story of the analysis</li><li data-collapsible="false">Present your findings using visualizations</li><li data-collapsible="false">Present your analysis</li></ul>
 </p>
+
+</h2>About dataset</h2>
+Stack Overflow, a popular website for developers, conducted an online survey of software professionals across the world. The survey data was later open sourced by Stack Overflow. The actual data set has around 90,000 responses.
+<p>
+The dataset you are going to use in this assignment comes from the following source: https://stackoverflow.blog/2019/04/09/the-2019-stack-overflow-developer-survey-results-are-in/ under a
+  <a href="https://opendatacommons.org/licenses/odbl/1-0/" target="_blank" rel="noopener noreferrer">ODbL: Open Database License</a>
+</p>
+<p>
+You will be given a subset of the original data set in this capstone project. You will explore, analyze, and visualize this dataset and present your analysis.
+</p>
+<p>
+Note: This randomised subset contains around 1/10th of the original data set. Any conclusions you draw after analyzing this subset may not reflect the real world scenario.
+</p>
+
+<p>The dataset is available as a .csv file <a href="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DA0321EN-SkillsNetwork/LargeData/m1_survey_data.csv">here</a>.</p>

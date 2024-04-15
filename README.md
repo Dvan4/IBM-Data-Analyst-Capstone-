@@ -59,7 +59,7 @@ We have analyzed the data in the previous modules, and now it is time to demonst
   <ul><li data-collapsible="false">Create a compelling story of the analysis</li><li data-collapsible="false">Present your findings using visualizations</li><li data-collapsible="false">Present your analysis</li></ul>
 </p>
 
-</h2>About dataset</h2>
+<h2>About dataset</h2>
 Stack Overflow, a popular website for developers, conducted an online survey of software professionals across the world. The survey data was later open sourced by Stack Overflow. The actual data set has around 90,000 responses.
 <p>
 The dataset you are going to use in this assignment comes from the following source: https://stackoverflow.blog/2019/04/09/the-2019-stack-overflow-developer-survey-results-are-in/ under a
